@@ -1,1 +1,2 @@
 This is testing a gut repo with a branch
+Read the gut repo as git repo
